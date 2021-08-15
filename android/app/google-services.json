@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201346804548",
+    "project_id": "big-finance-6faa4",
+    "storage_bucket": "big-finance-6faa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201346804548:android:c7f5111f76804430940511",
+        "android_client_info": {
+          "package_name": "com.example.big_finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201346804548-bdnv2q37j71upjjlejpfv0132jghrhoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwhaULZThF-G1SgeriBZPr_WGUV1xYZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201346804548-bdnv2q37j71upjjlejpfv0132jghrhoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
